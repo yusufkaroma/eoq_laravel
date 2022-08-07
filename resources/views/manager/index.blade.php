@@ -15,6 +15,7 @@
                 <div class="card-body">
                     {{$pesan}}
                 </div>
+                
             </div>
         </div>
     </div>
